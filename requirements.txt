@@ -1,5 +1,5 @@
 #Fill in dependencies here
-torch=1.0.1.post2
+torch==1.0.1.post2
 torchvision==0.2.1
 conda
 future
